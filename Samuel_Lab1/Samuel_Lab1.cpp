@@ -1,3 +1,4 @@
+// Edited directly on GitHub
 // Samuel_Lab1.cpp : This file contains the 'main' function. Program execution begins and ends there.
 //
 
