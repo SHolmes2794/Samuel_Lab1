@@ -9,6 +9,7 @@ int main()
 {
     cout << "Git makes collaboration easy!" << endl;
     cout << "Hello from Samuel! This is my first Git commit.";
+    cout << "Changes made by Brexton!" << endl;
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
