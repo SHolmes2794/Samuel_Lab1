@@ -14,8 +14,6 @@ int main()
     cout << "LAB 1 COMPLETED ON 4/6/2026!" << endl;
 
     cout << "Feature by Samuel: Branching is awesome!" << endl;
-
-    cout << "TYPO LINE!";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
