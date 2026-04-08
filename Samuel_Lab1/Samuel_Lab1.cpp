@@ -8,7 +8,7 @@ using namespace std;
 int main()
 {
     cout << "Git makes collaboration easy!" << endl;
-    cout << "Hello from Samuel!" << endl;
+    cout << "Hello from Samuel!";
     cout << "Hello from Brexton!" << endl;
     cout << "Changes made by Brexton!" << endl;
 
