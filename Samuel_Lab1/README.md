@@ -9,7 +9,7 @@ This is a simple C++ console application create for Git Lab 1.
  - How to collaborate using GitHub
 
 ## Team Members
- - Samuel Holmes
+ - Samuel Holmes - Feature: student info display
  - Brexton Hathaway
 
- ## Changed Made by Samuel: Added a feature greeting
+## Changed Made by Samuel: Added a feature greeting
