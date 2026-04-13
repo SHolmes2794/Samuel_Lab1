@@ -5,6 +5,8 @@
 #include <iostream>
 using namespace std;
 
+double gradeCalculator();
+
 int main()
 {
     cout << "Git makes collaboration easy!" << endl;
@@ -18,15 +20,24 @@ int main()
 
     cout << "Student ID: 1001 | Name: Samuel" << endl;
 
+    double grade = gradeCalculator();
+
     // Brexton: Pass-Fail-Checker
-    double grade = 79.8;
-    cout << "\nEnter a grade (0-100): " << grade << endl;
-    if (grade >= 60) 
+    if (grade >= 60)
     {
-		cout << "Congratulations! You passed!" << endl;
-	}
-	else 
+        cout << "Congratulations! You passed!" << endl;
+    }
+    else
     {
-		cout << "Sorry, you failed. Better luck next time!" << endl;
-	}
+        cout << "Sorry, you failed. Better luck next time!" << endl;
+    }
+}
+
+// Feature by Samuel: Calculates Grade
+double gradeCalculator()
+{
+    double grade;
+    cout << "\nEnter a grade (0-100): ";
+    cin >> grade;
+    return grade;
 }
