@@ -5,7 +5,13 @@
 #include <iostream>
 using namespace std;
 
-// My favourite number function � added by Samuel
+// My favourite number function — added by Brexton
+void myFavouriteNumber()
+{
+    int fav = 6;
+    cout << "My favourite number is: " << fav << endl;
+  
+// My favourite number function — added by Samuel
 void myFavouriteNumber2() {
     int fav2 = 8;
     cout << "My favourite number is: " << fav2 << endl;
@@ -38,6 +44,7 @@ int main()
         cout << "Sorry, you failed. Better luck next time!" << endl;
     }
 
+    myFavouriteNumber();
     myFavouriteNumber2();
 }
 

@@ -16,3 +16,4 @@ This is a simple C++ console application create for Git Lab 1.
 							Added a function to calculate grade - double gradeCalculator()
 
 ## Changed Made by Brexton: Added a pass-fail-checker
+							Added a favorite number function
