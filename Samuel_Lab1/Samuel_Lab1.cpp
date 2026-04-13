@@ -10,7 +10,8 @@ void myFavouriteNumber()
 {
     int fav = 6;
     cout << "My favourite number is: " << fav << endl;
-  
+}
+
 // My favourite number function — added by Samuel
 void myFavouriteNumber2() {
     int fav2 = 8;
