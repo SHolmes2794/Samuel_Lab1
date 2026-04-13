@@ -13,3 +13,5 @@ This is a simple C++ console application create for Git Lab 1.
  - Brexton Hathaway
 
 ## Changed Made by Samuel: Added a feature greeting
+
+## Changed Made by Brexton: Added a pass-fail-checker (grade = 79.8, pass)
