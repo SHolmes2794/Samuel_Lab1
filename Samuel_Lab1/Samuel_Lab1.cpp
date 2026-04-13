@@ -5,6 +5,13 @@
 #include <iostream>
 using namespace std;
 
+// My favourite number function — added by Brexton
+void myFavouriteNumber()
+{
+    int fav = 6;
+    cout << "My favourite number is: " << fav << endl;
+}
+
 double gradeCalculator();
 
 int main()
