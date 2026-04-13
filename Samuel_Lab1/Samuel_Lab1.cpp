@@ -5,6 +5,12 @@
 #include <iostream>
 using namespace std;
 
+// My favourite number function — added by Samuel
+void myFavouriteNumber2() {
+    int fav2 = 8;
+    cout << "My favourite number is: " << fav2 << endl;
+}
+
 double gradeCalculator();
 
 int main()
@@ -31,6 +37,8 @@ int main()
     {
         cout << "Sorry, you failed. Better luck next time!" << endl;
     }
+
+    myFavouriteNumber2();
 }
 
 // Feature by Samuel: Calculates Grade
