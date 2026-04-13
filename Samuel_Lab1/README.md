@@ -12,5 +12,7 @@ This is a simple C++ console application create for Git Lab 1.
  - Samuel Holmes - Feature: student info display
  - Brexton Hathaway
 
-## Changes Made by Samuel:	Added a feature greeting
+## Changed Made by Samuel:  Added a feature greeting
 							Added a function to calculate grade - double gradeCalculator()
+
+## Changed Made by Brexton: Added a pass-fail-checker

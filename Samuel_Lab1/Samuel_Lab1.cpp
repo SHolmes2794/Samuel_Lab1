@@ -21,6 +21,16 @@ int main()
     cout << "Student ID: 1001 | Name: Samuel" << endl;
 
     double grade = gradeCalculator();
+
+    // Brexton: Pass-Fail-Checker
+    if (grade >= 60)
+    {
+        cout << "Congratulations! You passed!" << endl;
+    }
+    else
+    {
+        cout << "Sorry, you failed. Better luck next time!" << endl;
+    }
 }
 
 // Feature by Samuel: Calculates Grade
